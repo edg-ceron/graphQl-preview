@@ -1,0 +1,16 @@
+{
+  "name": "graphql_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Edgar",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server": "^2.3.1",
+    "dotenv": "^6.2.0",
+    "graphql": "^14.0.2"
+  }
+}
